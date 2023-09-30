@@ -24,7 +24,7 @@ To conduct the project, various datasets were utilized, from two different sourc
 
 In order to incorporate the countries’ flags into the dashboard, another dataset from Kaggle was downloaded, consisting of four columns: name of the country, ISO Alpha-2 country code, ISO Alpha-3 country code and, lastly, an URL of the country’s flag.
 
-## Visualization
+## Visualizations
 The dashboard provides a variety of interactive visualizations, including:
 - Visualization 1: Graph Map Choropleth 
 - Visualization 2: Bar Chart of the Top 5 Countries
