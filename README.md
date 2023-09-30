@@ -1,5 +1,7 @@
 # Data-Visualization-Project-2023
 
+Group project for the Data Visualization course of the Master's Degree in Data Science and Advanced Analytics at NOVA IMS.
+
 Dashboard created using the Plotly with Dash software, that interactively displays information from the "World Happiness Report". The objective of this project is to transform data into meaningful and interactive visualizations.
 
 Link to the dashboard: https://world-happiness-t14p.onrender.com/
