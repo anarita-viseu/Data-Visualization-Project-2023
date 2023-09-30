@@ -1,6 +1,6 @@
 # Data-Visualization-Project-2023
 
-Dashboard created using the Plotly with Dash software, that interactively displays information from the "World Happiness Report" dataset. The objective of this dashboard is to transform data into meaningful and interactive visualizations.
+Dashboard created using the Plotly with Dash software, that interactively displays information from the "World Happiness Report". The objective of this dashboard is to transform data into meaningful and interactive visualizations.
 
 Link to the dashboard: https://world-happiness-t14p.onrender.com/
 
