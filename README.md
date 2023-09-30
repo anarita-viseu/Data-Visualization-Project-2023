@@ -2,6 +2,8 @@
 
 Dashboard created using the Plotly with Dash software, that interactively displays information from the "World Happiness Report" dataset. The objective of this dashboard is to transform data into meaningful and interactive visualizations.
 
+Link to the dashboard: https://world-happiness-t14p.onrender.com/
+
 ## Metadata
 To conduct the project, various datasets were utilized, from two different sources (Kaggle and World Happiness Report official website). Some changes were made to the data, that are in the notebook in the pre-processing folder. The final dataset contains the variables presented in the following table.
 
